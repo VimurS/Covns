@@ -53,6 +53,15 @@
     color: white;
 }
 
+.Vspan2 {
+    color: #00bf63;
+}
+
+.apoSpan2 {
+    color: #cadcd3;
+    font-family: 'Lato', sans-serif;
+}
+
 .abtCovn {
     text-align: center;
     width: 60%;

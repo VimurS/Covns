@@ -1,0 +1,135 @@
+.abtSec{
+    /* background-color: whitesmoke; */
+    color: grey;
+    padding: 7% 30px 0px 30px;
+    font-family: 'Lato', sans-serif;
+}
+
+.coSpan3 {
+    color: black;
+}
+
+.Vspan3 {
+    color: #00bf63;
+}
+
+.apoSpan3 {
+    color: #a9a9a9;
+    font-family: 'Lato', sans-serif;
+}
+
+.foundersImg{
+    width: 20%;
+    display: block;
+    position: relative;
+    left: 40%;
+}
+
+.vim{
+    width: 15%;
+}
+
+.vick{
+    width: 15%;
+}
+
+.overview{
+    text-align: center;
+    margin-bottom: 3%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+}
+
+.overviewP{
+    width: 100%;
+    text-align: justify;
+    padding: 0px 10% 4% 10%;
+    /* margin-bottom: 4%; */
+}
+
+.overviewP2{
+    width: 100%;
+    text-align: justify;
+    padding: 4% 10% 4% 10%;
+    /* margin-bottom: 4%; */
+}
+
+.foundr{
+    width: 100%;
+}
+
+#vim{
+    display: flex;
+    padding: 0px 10% 0px 10%;
+}
+
+#vick{
+    display: flex;
+    padding: 0px 10% 6% 10%;
+}
+
+#vim p{
+    margin: 2%;
+    text-align: left;
+}
+
+#vick p{
+    margin: 2%;
+    text-align: right;
+}
+
+.founderTag{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+@media (min-width: 300px) and (max-width: 1300px) {
+
+.foundersImg{
+    position: static;
+    width: 100%;
+}
+#vick, #vim{
+    display: block;
+}
+
+.vick, .vim{
+    width: 100%;
+    margin: 10% 0px 10% 0px;
+}
+
+/* .vick{
+    margin: 15% 0px 10% 0px !important;
+} */
+
+#vim p{
+    text-align: justify !important;
+    margin: 40px 2% 2% 2%;
+}
+
+#vick p{
+    text-align: justify !important;
+    margin: 40px 2% 2% 2%;
+}
+
+.founderTag{
+    text-align: justify;
+    font-size: 14px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1300px) {
+    .foundersImg{
+        width: 30% !important;
+        position: relative;
+    left: 40%;
+    }
+    
+    .vick, .vim{
+        width: 30% !important;
+        margin: 5% 0px 5% 0px;
+        position: relative;
+    left: 40%;
+    }
+}

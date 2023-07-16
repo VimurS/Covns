@@ -15,6 +15,7 @@ const Contact = () => {
             <Container >
                 <div>
                     <div style={{ backgroundColor: "black", color: "black" }}><h5>color</h5></div>
+                    <div id='contactus'></div>
                     <h2 className='newH2'>Get In Touch</h2>
                     <div className='contactss'>
 

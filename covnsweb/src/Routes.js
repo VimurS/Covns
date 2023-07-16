@@ -1,5 +1,5 @@
-export const Routes = {
+// export const Routes = {
 
-    LandingPage: "/home",
-    Contact: "/contactus"
-}
+//     LandingPage: "/home",
+//     Contact: "/contactus"
+// }

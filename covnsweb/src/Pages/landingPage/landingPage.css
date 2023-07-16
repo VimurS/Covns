@@ -126,6 +126,7 @@
     display: block;
     padding: 0px 20px 0px 20px;
     font-size: 15px;
+    text-align: justify;
 }
 
 .process1,
@@ -186,15 +187,6 @@
     font-size: 40px;
     padding-bottom: 20px;
     text-align: center;
-}
-
-.Vspan2 {
-    color: #00bf63;
-}
-
-.apoSpan2 {
-    color: #cadcd3;
-    font-family: 'Lato', sans-serif;
 }
 
 .coSpan {

@@ -153,7 +153,8 @@ const LandingPage = () => {
           </div>
         </Container>
 
-        <div id='contactus'><Contact /></div>
+       
+        <Contact />
 
       </div>
     </div>

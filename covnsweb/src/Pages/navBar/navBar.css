@@ -3,8 +3,19 @@
     color: white !important;
     font-weight: 600 !important;
     font-size: 20px !important;
+    padding-right: 40px !important;
 }
 
 .brandLogo {
     width: 50px;
+}
+
+.dropdownNav{
+    text-align: center !important;
+}
+
+@media (min-width: 300px) and (max-width: 1000px) {
+.navLinks{
+    padding-right: 0px !important;
+}
 }
