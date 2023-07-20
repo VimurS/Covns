@@ -1,0 +1,122 @@
+.contactss {
+    background-color: black;
+    color: gray;
+    padding: 0px 30px 5% 30px !important;
+    position: relative;
+    width: 100%;
+    display: flex;
+}
+
+.newH2 {
+    background-color: black;
+    color: lightgray;
+    margin: 0px 0px -1px 0px;
+    padding: 6% 0px 4% 0px !important;
+    padding: 0px;
+    text-align: center;
+}
+
+.contactss img {
+    display: block;
+    margin: 0 auto !important;
+
+}
+
+.contactH4 {
+    margin: 0px 0px 10% 0px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+.smedia {
+    display: block;
+    margin: 0px auto 30px 30% !important;
+}
+
+.smedia img,
+.smedia a {
+    display: inline-flex;
+    text-decoration: none;
+}
+
+.smedia a {
+    margin: 0px 0px 0px 15px;
+}
+
+.abtCovn h4 {
+    display: block !important;
+}
+
+.coSpan2 {
+    color: white;
+}
+
+.Vspan2 {
+    color: #00bf63;
+}
+
+.apoSpan2 {
+    color: #cadcd3;
+    font-family: 'Lato', sans-serif;
+}
+
+.abtCovn {
+    text-align: center;
+    width: 60%;
+}
+
+.abtCovn-heading {
+    display: inline-flex;
+    margin: 0px 0px 6% 0px;
+    text-decoration: underline;
+}
+
+.abtCovn-content {
+    text-align: left;
+    margin-top: 10px;
+    display: block;
+    font-size: 15px;
+}
+
+.footer {
+    text-align: center;
+    display: block;
+    width: 100%;
+    background-color: black;
+    margin-bottom: -1px;
+    margin-top: -1px;
+    color: darkgray;
+    font-size: 10px;
+    padding-bottom: 19px;
+}
+
+
+@media (min-width: 300px) and (max-width: 1300px) {
+    .contactss {
+        display: block;
+    }
+
+    .connectu {
+        width: 100% !important;
+        display: block !important;
+    }
+
+    .abtCovn {
+        width: 100%;
+        display: block;
+    }
+
+    .abtCovn-content {
+        text-align: justify !important;
+    }
+
+    .contactH4 {
+        margin: 0px 0px 5% 0px !important;
+    }
+
+    .abtCovn-heading {
+        padding-top: 4%;
+    }
+}
