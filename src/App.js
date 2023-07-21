@@ -14,8 +14,8 @@ function App() {
 <BrowserRouter>
 <Routes>
   <Route index path='/Covns' element={<LandingPage />}></Route>
-  <Route path='/home' element={<LandingPage />}></Route>
-  <Route path='/aboutus' element={<Aboutus />}></Route>
+  <Route path='/Covns/home' element={<LandingPage />}></Route>
+  <Route path='/Covns/aboutus' element={<Aboutus />}></Route>
 </Routes>
     
 </BrowserRouter>
