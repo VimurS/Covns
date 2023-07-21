@@ -11,11 +11,11 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-<BrowserRouter>
+<BrowserRouter basename='/Covns'>
 <Routes>
   <Route index path='/Covns' element={<LandingPage />}></Route>
-  <Route path='/Covns/home' element={<LandingPage />}></Route>
-  <Route path='/Covns/aboutus' element={<Aboutus />}></Route>
+  <Route path='/home' element={<LandingPage />}></Route>
+  <Route path='/aboutus' element={<Aboutus />}></Route>
 </Routes>
     
 </BrowserRouter>
