@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/Covns/static/css/main.6e75324f.css",
-    "main.js": "/Covns/static/js/main.d9356216.js",
+    "main.css": "/Covns/static/css/main.e898bde8.css",
+    "main.js": "/Covns/static/js/main.5874777f.js",
     "static/js/787.6040eb25.chunk.js": "/Covns/static/js/787.6040eb25.chunk.js",
-    "static/media/cowlove.jpg": "/Covns/static/media/cowlove.529a50394395c1e2d6c8.jpg",
     "static/media/feedingcalf.jpg": "/Covns/static/media/feedingcalf.68aa319dac6a55977300.jpg",
     "static/media/cowcalf.jpg": "/Covns/static/media/cowcalf.0b241a369dbf6139f69f.jpg",
+    "static/media/cowlove.jpg": "/Covns/static/media/cowlove.f9bdd2dc36059048e69b.jpg",
     "static/media/foundersofcovns.jpg": "/Covns/static/media/foundersofcovns.a1a25255e702137cc1a8.jpg",
     "static/media/cow.jpg": "/Covns/static/media/cow.e59ba451dd799f21936a.jpg",
+    "static/media/locss.png": "/Covns/static/media/locss.d410d15da9b05e44b627.png",
     "static/media/vickys.jpg": "/Covns/static/media/vickys.892d3850feb39082a69a.jpg",
+    "static/media/newmap.png": "/Covns/static/media/newmap.96ac87abeffe475318e5.png",
     "static/media/vimurs.jpg": "/Covns/static/media/vimurs.fd0b46c7a506da763390.jpg",
     "static/media/milk.png": "/Covns/static/media/milk.691bf4909923681be80f.png",
     "static/media/delivery.png": "/Covns/static/media/delivery.6a91a0f5a6fd63227c19.png",
     "static/media/testmilk.png": "/Covns/static/media/testmilk.f1a5cc36bcf7564bcc8b.png",
     "static/media/farmmilk.png": "/Covns/static/media/farmmilk.e1f9a3469968126ab90c.png",
+    "static/media/loc.png": "/Covns/static/media/loc.64cdcb0ef97818161310.png",
     "static/media/brandlogotam.png": "/Covns/static/media/brandlogotam.edd65cc957774e2fb800.png",
     "static/media/logo.svg": "/Covns/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Covns/index.html",
-    "main.6e75324f.css.map": "/Covns/static/css/main.6e75324f.css.map",
-    "main.d9356216.js.map": "/Covns/static/js/main.d9356216.js.map",
+    "main.e898bde8.css.map": "/Covns/static/css/main.e898bde8.css.map",
+    "main.5874777f.js.map": "/Covns/static/js/main.5874777f.js.map",
     "787.6040eb25.chunk.js.map": "/Covns/static/js/787.6040eb25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e75324f.css",
-    "static/js/main.d9356216.js"
+    "static/css/main.e898bde8.css",
+    "static/js/main.5874777f.js"
   ]
 }
