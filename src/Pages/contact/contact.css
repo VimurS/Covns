@@ -114,9 +114,15 @@
 
     .contactH4 {
         margin: 0px 0px 5% 0px !important;
+        text-align: left;
     }
 
     .abtCovn-heading {
         padding-top: 4%;
+        text-align: left;
+    }
+
+    .smedia{
+        margin: 0px auto 30px 0% !important;
     }
 }

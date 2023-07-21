@@ -15,6 +15,9 @@ import feedingcalf from "../../img/feedingcalf.jpg";
 import farmmilk from "../../img/farmmilk.png";
 import delivery from "../../img/delivery.png";
 import testmilk from "../../img/testmilk.png";
+import newmap from "../../img/newmap.png";
+import loc from "../../img/loc.png";
+import locss from "../../img/locss.png";
 
 const LandingPage = () => {
 
@@ -113,6 +116,34 @@ const LandingPage = () => {
 
         </Container>
 
+        
+        <Container>
+          <div className='Delivery'>
+            <div className='delLoc'>
+              <h3>Delivery Free for Areas We Cover</h3>
+              <div className='locss'>
+                <div className='location'><img src={loc}></img> R.S.Puram</div>
+                <div className='location'><img src={loc}></img> Poo Market</div>
+                <div className='location'><img src={loc}></img> Gandhipark</div>
+                <div className='location'><img src={loc}></img> Telugu Street</div>
+                <div className='location'><img src={loc}></img> Sullivan Street</div>
+                <div className='location'><img src={loc}></img> Raja Street</div>
+                <div className='location'><img src={loc}></img> R.G. Street</div>
+                <div className='location'><img src={loc}></img> Sukrawarpet</div>
+                <div className='location'><img src={loc}></img> Chokkampudur</div>
+                <div className='location'><img src={loc}></img>Ponnaiyaraja Puram</div>
+                <div className='location'><img src={loc}></img>  Shivalaya</div>
+                <div className='location'><img src={loc}></img> Chetty Street</div>
+                <div className='location'><img src={loc}></img> Selvapuram</div>
+                <div className='location'><img src={loc}></img> TelunguPalayam</div>
+                <div className='location'><img src={loc}></img> Perur</div>
+              </div>
+              {/* <img src={locss}></img> */}
+            </div>
+            <img className='cityCBE' src={newmap}></img>
+          </div>
+        </Container>
+
         <Container style={{ height: '100%' }}>
           <div className='commonDiv' style={{ display: 'flex', alignItems: 'stretch', height: '100%' }}>
             <div className='benefitsSec' style={{ flex: 1 }}>
@@ -153,7 +184,7 @@ const LandingPage = () => {
           </div>
         </Container>
 
-       
+
         <Contact />
 
       </div>

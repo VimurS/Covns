@@ -230,6 +230,50 @@
     margin: 2% auto 4% auto;
 }
 
+.Delivery{
+    width: 100%;
+    background-color: #c1ffe0;
+}
+
+.delLoc{
+    padding: 7% 4% 2% 4% !important;
+    text-align: center;
+}
+
+.Delivery h3{
+    color: #00bf63;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0% 0% 5% 0%;
+}
+
+.locs{
+    color: #0a5cad;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.locss img{
+    width: 20px;
+    height: 30px;
+    padding-top: 10px;
+    margin-right: 2%;
+}
+
+.cityCBE{
+    width: 100%;
+}
+
+.location{
+    margin-right: 3%;
+    margin-bottom: 2%;
+    display: inline-flex;
+    font-size: 25px;
+    font-weight: 700;
+    width: 25%;
+}
+
+
 @media (min-width: 1400px) {
     .container {
         max-width: none !important;
@@ -258,6 +302,10 @@
         padding-left: 2rem;
     }
 
+    .benefitsSec li{
+        font-size: 20px;
+    }
+
     .processDiv {
         display: block;
         width: 100%;
@@ -273,6 +321,15 @@
         text-align: center;
     }
 
+    .location {
+        margin-right: 3%;
+        margin-bottom: 2%;
+        display: block;
+        font-size: 15px;
+        font-weight: 700;
+        width: 100%;
+        text-align: initial;
+    }
 }
 
 @media (min-width: 1200px) {
