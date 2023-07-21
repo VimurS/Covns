@@ -120,7 +120,7 @@ const LandingPage = () => {
         <Container>
           <div className='Delivery'>
             <div className='delLoc'>
-              <h3>Delivery Free for Areas We Cover</h3>
+              <h3>Delivery Locations</h3>
               <div className='locss'>
                 <div className='location'><img src={loc}></img> R.S.Puram</div>
                 <div className='location'><img src={loc}></img> Poo Market</div>
@@ -154,6 +154,7 @@ const LandingPage = () => {
                 <li>No Added Chemicals</li>
                 <li>Clean and Hygienic</li>
                 <li>A2 Milk (Native Breed's)</li>
+                <li>Free Home Delivery</li>
                 <li>Processed within 4 hours</li>
               </ul>
             </div>
