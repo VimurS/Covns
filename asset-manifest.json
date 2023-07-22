@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Covns/static/css/main.0ee86056.css",
-    "main.js": "/Covns/static/js/main.5874777f.js",
+    "main.css": "/Covns/static/css/main.044f6523.css",
+    "main.js": "/Covns/static/js/main.187fc572.js",
     "static/js/787.6040eb25.chunk.js": "/Covns/static/js/787.6040eb25.chunk.js",
     "static/media/feedingcalf.jpg": "/Covns/static/media/feedingcalf.68aa319dac6a55977300.jpg",
     "static/media/cowcalf.jpg": "/Covns/static/media/cowcalf.0b241a369dbf6139f69f.jpg",
     "static/media/cowlove.jpg": "/Covns/static/media/cowlove.f9bdd2dc36059048e69b.jpg",
+    "static/media/milkcard.jpg": "/Covns/static/media/milkcard.17436376d19807bdf363.jpg",
     "static/media/foundersofcovns.jpg": "/Covns/static/media/foundersofcovns.a1a25255e702137cc1a8.jpg",
     "static/media/cow.jpg": "/Covns/static/media/cow.e59ba451dd799f21936a.jpg",
     "static/media/locss.png": "/Covns/static/media/locss.d410d15da9b05e44b627.png",
@@ -20,12 +21,12 @@
     "static/media/brandlogotam.png": "/Covns/static/media/brandlogotam.edd65cc957774e2fb800.png",
     "static/media/logo.svg": "/Covns/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Covns/index.html",
-    "main.0ee86056.css.map": "/Covns/static/css/main.0ee86056.css.map",
-    "main.5874777f.js.map": "/Covns/static/js/main.5874777f.js.map",
+    "main.044f6523.css.map": "/Covns/static/css/main.044f6523.css.map",
+    "main.187fc572.js.map": "/Covns/static/js/main.187fc572.js.map",
     "787.6040eb25.chunk.js.map": "/Covns/static/js/787.6040eb25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ee86056.css",
-    "static/js/main.5874777f.js"
+    "static/css/main.044f6523.css",
+    "static/js/main.187fc572.js"
   ]
 }
