@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Covns/static/css/main.e4fc02de.css",
-    "main.js": "/Covns/static/js/main.c78c08e3.js",
-    "static/js/787.6040eb25.chunk.js": "/Covns/static/js/787.6040eb25.chunk.js",
+    "main.css": "/Covns/static/css/main.10470107.css",
+    "main.js": "/Covns/static/js/main.0da5385c.js",
     "static/media/feedingcalf.jpg": "/Covns/static/media/feedingcalf.68aa319dac6a55977300.jpg",
     "static/media/cowcalf.jpg": "/Covns/static/media/cowcalf.0b241a369dbf6139f69f.jpg",
     "static/media/cowlove.jpg": "/Covns/static/media/cowlove.f9bdd2dc36059048e69b.jpg",
@@ -20,12 +19,11 @@
     "static/media/loc.png": "/Covns/static/media/loc.64cdcb0ef97818161310.png",
     "static/media/brandlogotam.png": "/Covns/static/media/brandlogotam.edd65cc957774e2fb800.png",
     "index.html": "/Covns/index.html",
-    "main.e4fc02de.css.map": "/Covns/static/css/main.e4fc02de.css.map",
-    "main.c78c08e3.js.map": "/Covns/static/js/main.c78c08e3.js.map",
-    "787.6040eb25.chunk.js.map": "/Covns/static/js/787.6040eb25.chunk.js.map"
+    "main.10470107.css.map": "/Covns/static/css/main.10470107.css.map",
+    "main.0da5385c.js.map": "/Covns/static/js/main.0da5385c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4fc02de.css",
-    "static/js/main.c78c08e3.js"
+    "static/css/main.10470107.css",
+    "static/js/main.0da5385c.js"
   ]
 }
