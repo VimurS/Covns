@@ -41,7 +41,7 @@ const NavBar = () => {
             <Navbar.Collapse id="basic-navbar-nav" style={{ flexGrow: "0" }}>
               <Nav className="me-auto">
                 <Nav.Link className='navLinks' href="/home">Home</Nav.Link>
-                <Nav.Link className='navLinks' href="#link">Products</Nav.Link>
+                <Nav.Link className='navLinks' href="/products">Products</Nav.Link>
                 <NavDropdown className='navLinks' title="Delivery Locations" id="basic-nav-dropdown">
                   {/* <NavDropdown.Item href="#action/3.1"></NavDropdown.Item>
                   <NavDropdown.Item href="#action/3.2">

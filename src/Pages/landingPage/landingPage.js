@@ -160,7 +160,7 @@ const LandingPage = () => {
             </div>
 
             <div className='priceSec' style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
-              <h4 style={{ marginBottom: 'auto' }}>Pricing:</h4>
+              <h4 style={{ marginBottom: 'auto' }}>Pricing</h4>
               <Card className='priceCesCard' style={{ width: '15rem', marginTop: 'auto' }}>
                 {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
                 <Card.Body style={{ textAlign: "center" }}>

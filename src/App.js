@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import LandingPage from './Pages/landingPage/landingPage'
-import Aboutus from "./Pages/aboutus/aboutus"
+import LandingPage from './Pages/landingPage/landingPage';
+import Aboutus from "./Pages/aboutus/aboutus";
+import Products from './Pages/Products/Products';
 import Contact from './Pages/contact/contact';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import brandLogo from "./img/brandlogo.png";
@@ -11,14 +12,15 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-<BrowserRouter>
+<HashRouter>
 <Routes>
   <Route index path='/Covns' element={<LandingPage />}></Route>
   <Route path='/home' element={<LandingPage />}></Route>
   <Route path='/aboutus' element={<Aboutus />}></Route>
+  <Route path='/products' element={<Products />}></Route>
 </Routes>
     
-</BrowserRouter>
+</HashRouter>
  
   );
 }
