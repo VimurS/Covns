@@ -63,7 +63,7 @@ const NavBar = () => {
                   <NavDropdown.Divider />
                   <NavDropdown.Item className='dropdownNav' href="#action/3.4">Sukrawarpet</NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item className='dropdownNav' href="#action/3.4">Ponnaiya Raja Puram</NavDropdown.Item>
+                  <NavDropdown.Item className='dropdownNav' href="#action/3.4">Ponnaiyaraja Puram</NavDropdown.Item>
                   <NavDropdown.Divider />
                   <NavDropdown.Item className='dropdownNav' href="#action/3.4">Chokkampudur</NavDropdown.Item>
                   <NavDropdown.Divider />
@@ -77,8 +77,8 @@ const NavBar = () => {
                   <NavDropdown.Divider />
                   <NavDropdown.Item className='dropdownNav' href="#action/3.4">Perur</NavDropdown.Item>
                 </NavDropdown>
-                <Nav.Link className='navLinks' href="/aboutus">About US</Nav.Link>
-                <Nav.Link className='navLinks' href="#contactus">Contact US</Nav.Link>
+                <Nav.Link className='navLinks' href="/aboutus">About us</Nav.Link>
+                <Nav.Link className='navLinks' href="#contactus">Contact us</Nav.Link>
 
               </Nav>
             </Navbar.Collapse>
