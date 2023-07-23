@@ -1,0 +1,38 @@
+.products{
+    padding:  7% 30px 8% 30px;
+ 
+}
+
+.OProd{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 40px;
+}
+
+.prodCard{
+    background-color: #00bf63 !important;
+    color: white !important;
+    margin: 0 auto;
+}
+
+.prodBtn{
+    padding: 15px 30px 15px 30px !important;
+    border: none !important;
+    border-radius: 14px !important;
+}
+
+.CardText{
+
+    font-size: 14px;
+    font-weight:500;
+     padding: 10px 0px 0px 0px;
+}
+
+.CardTitle{
+    text-align:center;
+     font-weight:700;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+     sans-serif;
+}

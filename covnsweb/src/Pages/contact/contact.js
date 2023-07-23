@@ -21,7 +21,7 @@ const Contact = () => {
 
 
                         <div className='connectu' style={{ display: "inline-block", width: "40%" }}>
-                            <h4 className='contactH4 '>Connect with us</h4>
+                            <h4 className='contactH4 '>Connect with us on</h4>
                             <div className='smedia'>
                                 <img src={insta}></img>
                                 <a href='https://instagram.com/covnsmilk?igshid=MzNlNGNkZWQ4Mg==' target='blank'> covnsmilk</a>

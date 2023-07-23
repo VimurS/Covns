@@ -41,7 +41,7 @@ const NavBar = () => {
             <Navbar.Collapse id="basic-navbar-nav" style={{ flexGrow: "0" }}>
               <Nav className="me-auto">
                 <Nav.Link className='navLinks' href="/home">Home</Nav.Link>
-                <Nav.Link className='navLinks' href="#link">Products</Nav.Link>
+                <Nav.Link className='navLinks' href="/products">Products</Nav.Link>
                 <NavDropdown className='navLinks' title="Delivery Locations" id="basic-nav-dropdown">
                   {/* <NavDropdown.Item href="#action/3.1"></NavDropdown.Item>
                   <NavDropdown.Item href="#action/3.2">
@@ -63,7 +63,7 @@ const NavBar = () => {
                   <NavDropdown.Divider />
                   <NavDropdown.Item className='dropdownNav' href="#action/3.4">Sukrawarpet</NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item className='dropdownNav' href="#action/3.4">Ponnaiya Raja Puram</NavDropdown.Item>
+                  <NavDropdown.Item className='dropdownNav' href="#action/3.4">Ponnaiyaraja Puram</NavDropdown.Item>
                   <NavDropdown.Divider />
                   <NavDropdown.Item className='dropdownNav' href="#action/3.4">Chokkampudur</NavDropdown.Item>
                   <NavDropdown.Divider />
@@ -77,8 +77,8 @@ const NavBar = () => {
                   <NavDropdown.Divider />
                   <NavDropdown.Item className='dropdownNav' href="#action/3.4">Perur</NavDropdown.Item>
                 </NavDropdown>
-                <Nav.Link className='navLinks' href="/aboutus">About US</Nav.Link>
-                <Nav.Link className='navLinks' href="#contactus">Contact US</Nav.Link>
+                <Nav.Link className='navLinks' href="/aboutus">About us</Nav.Link>
+                <Nav.Link className='navLinks' href="#contactus">Contact us</Nav.Link>
 
               </Nav>
             </Navbar.Collapse>
